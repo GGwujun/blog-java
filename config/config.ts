@@ -16,8 +16,8 @@ export default defineConfig({
       }),
 
   logo: "/logo.png",
-  base: "/blog-test",
-  publicPath: "/blog-test/",
+  base: "/blog-java",
+  publicPath: "/blog-java/",
   favicon: "/logo.png",
   mode: "site",
   title: "大师兄",
